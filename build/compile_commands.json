@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspace/deal-ii-8.5.1/build",
+  "command": "/usr/bin/mpicxx   -DDEBUG -DTBB_DO_ASSERT=1 -DTBB_USE_DEBUG -I/home/dealii/dealii-v8.5.1/include -I/home/dealii/dealii-v8.5.1/include/deal.II/bundled -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -I/home/dealii/libs/parmetis-4.0.3/include -I/home/dealii/libs/trilinos-release-12-10-1/include -I/home/dealii/libs/superlu_dist_5.1.2/include -I/home/dealii/libs/petsc-3.6.4/include -I/home/dealii/libs/hdf5-1.8.15-patch1/include -I/home/dealii/libs/oce.git/include/oce -I/home/dealii/libs/p4est-2.0/FAST/include -I/home/dealii/libs/slepc-3.6.0/include    -pedantic -fPIC -Wall -Wextra -Wpointer-arith -Wwrite-strings -Wsynth -Wsign-compare -Wswitch -Woverloaded-virtual -Wno-long-long  -Wno-literal-suffix -fopenmp-simd -std=c++14 -Wno-parentheses -Wno-unused-local-typedefs -Og -ggdb -Wa,--compress-debug-sections -o CMakeFiles/main.dir/main.cc.o -c /workspace/deal-ii-8.5.1/test/main.cc",
+  "file": "/workspace/deal-ii-8.5.1/test/main.cc"
+}
+]

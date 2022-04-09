@@ -1,0 +1,10 @@
+/workspace/deal-ii-8.5.1/build/CMakeFiles/edit_cache.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/rebuild_cache.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/info.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/strip_comments.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/distclean.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/runclean.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/main.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/debug.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/run.dir
+/workspace/deal-ii-8.5.1/build/CMakeFiles/release.dir
