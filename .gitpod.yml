@@ -1,1 +1,1 @@
-image : janducreations/mycontainer
+image : janducreations/mycontainer:with-sudo
